@@ -1,7 +1,10 @@
+### About me
 A master student of Software Engineering studying at State Key Lab of CAD&CG, Zhejiang University and a ZJUIDG group member supervised by Prof. Yingcai Wu.
 
-The main research direction is big data, and he is currently doing an internship in Zhejiang Lab
+### Interests
+Big data, Distributed Computing, Streaming data processing
 
-### contact
-Email: taotao.fuu@gmail.com
-Phone: 18858105478
+### Contact
+Email: taotao.fuu@gmail.com  
+Phone: 18858105478  
+Address: Zhejiang Lab
